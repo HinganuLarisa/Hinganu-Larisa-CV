@@ -112,6 +112,15 @@ ul li,
 .work-experience-duties {
 	padding-left: 18px;
 }
+.course-period {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color: #a8a8a8;
+	margin-top: 10px;
+}
 .education-section {
 	margin-top: 50px;
 }
